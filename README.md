@@ -15,3 +15,12 @@ To analyze IT ticket data and identify patterns, delays and efficiency issues.
 - Dashboard Screenshots
 ## Outcome
 This project helps in understanding ticket trends and improving operational efficiency.
+## Dashboard Screenshots
+### Overview
+Dashboard.png1
+### Operational Trends
+Dashboard.png2
+### Employee Experience and satisfaction Analysis
+Dashboard.png3
+### Agent performance and efficiency
+Dashboard.png4
